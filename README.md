@@ -1,10 +1,11 @@
 # research-ideas
-Research ideas collection:
-1) The Role of Business cycles on education system workloads / human capital accumulation. Do people or Institutions leverage? (educational economics / labor market economics)
-2) Variable Selection (Lasso) and Y_hat forecasts - (E.g. Lasso Regression for stock returns over the FOMC cycle)
+Research idea collection for papers, seminar papers or possible thesis topic:
+1) The Role of Business cycles on education system workloads / human capital accumulation. Do people or Institutions leverage? (economics of education / labor market economics)
+2) Pure methological ex.: (E.g. Variable selection using Lasso Regression for stock returns over the FOMC cycle)
 3) Determinants of political office-holders surviving a term of office. 
-4) A Comparative Analysis On Endurance Sport Participation and Life Expectancy
-5) Influence of professional sport accidents/health shocks on human capital and labor market outcomes.
-6) Determinants of Layoffs in tech in the U.S. (https://layoffs.fyi/)
-7) 
+4) The influence of endurance sport participation and life expectancy
+5) Effect of Health shocks on human capital/labor market outcomes.
+6) Determinants of Tech Layoffs (in the U.S.) using https://layoffs.fyi/
+7) Price Contagion (Effects) (maybe Spatial Econometrics?) in 1:1 Online Market Places (Auctions). (e.g. with use of a Willhaben-Scraper)
+8) 
    
