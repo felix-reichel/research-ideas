@@ -8,5 +8,5 @@
 5) Impact of Health Shocks on Human Capital and Labor Market Outcomes (Literature Review, 
 6) Drivers/Determinants of Tech Mass Layoffs (using Whistleblower data form the U.S. Tech Industry e.g. https://layoffs.fyi/)
 7) Price Contagion Effects in 1:n and m:n Online Marketplaces. (e.g. with use of a Willhaben-Scraper, "Spatial Econometrics"?)
-8) Determinants and Self Selection Bias of Caffeine Consumption (find suitable Survey Data, medical literature review (saw dubious paper recently linking caffeine intake with med. conditions that screem selection bias, selection bias, ...)
+8) Determinants and Self Selection Bias of Caffeine Consumption (find suitable Survey Data, medical literature review (saw dubious paper recently linking caffeine intake with med. conditions that screems selection bias, selection bias, ...)
 9) 
