@@ -9,4 +9,6 @@
 6) Drivers/Determinants of Tech Mass Layoffs (using Whistleblower data form the U.S. Tech Industry e.g. https://layoffs.fyi/)
 7) Price Contagion Effects in 1:n and m:n Online Marketplaces. (e.g. with use of a Willhaben-Scraper, "Spatial Econometrics"?)
 8) Determinants and Self Selection Bias of Caffeine Consumption (find suitable Survey Data, medical literature review (saw dubious paper recently linking caffeine intake with med. conditions that screems selection bias, selection bias, ...)
-9) 
+9) Draw a topic from https://www.momentum-institut.at/junior-fellowship-themen especially interesting "regulatory capture" from political econ.
+10) (Partial) Replication / Extension / Re-estimation / Analysis of "The economic commitment of climate change" Kotz et. al (2024) in Nature Vol.(628)
+11)
