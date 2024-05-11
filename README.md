@@ -11,5 +11,7 @@
 8) Determinants and Self Selection Bias of Caffeine Consumption (find suitable Survey Data, medical literature review (saw dubious paper recently linking caffeine intake with med. conditions that screems selection bias, selection bias, ...)
 9) Draw a topic from https://www.momentum-institut.at/junior-fellowship-themen especially interesting "regulatory capture" from political econ.
 10) (Partial) Replication / Extension / Re-estimation / Analysis of "The economic commitment of climate change" Kotz et. al (2024) in Nature Vol.(628)
-11) Determinants of the rise of cancer among adults. Evidence from US and Austria (find gkk diagnosis data > 2009)
-12) 
+11) Determinants of the rise of cancer among young adults. Evidence from US and Austria (find gkk diagnosis data > 2009)
+12) Empirical Evidence of the 'Bannister Effect' using Regression Discontinuity Designs (sports econ)
+13) 
+  
