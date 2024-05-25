@@ -15,5 +15,6 @@
 12) Evidence of the 'Bannister'-Effect (a psychological belief phenomenon) using Regression Discontinuity Designs (sports econ)
 13) Within country firm size, structure (MNC's?) and its relation to foreign direct investment.
 14) Geofencing (in the EU) and it's relation to Offline/Online-Price-Dispersion(if existent).
-15) 
+15) Spatial within country (proxy) price contagion in c2c online markets. For one product as obs. unit: [https://github.com/felix-reichel/woombikes-price-contagion](woombikes-price-contagion)
+16)   
 
