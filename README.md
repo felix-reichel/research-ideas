@@ -16,5 +16,6 @@
 13) Within country firm size, structure (MNC's?) and its relation to foreign direct investment.
 14) Geofencing (in the EU) and it's relation to Offline/Online-Price-Dispersion(if existent).
 15) Spatial within country (proxy) price contagion in c2c online markets. For one product as obs. unit:[woombikes-price-contagion](https://github.com/felix-reichel/woombikes-price-contagion)
-16)   
+16) "If it's Boeing, it isn't going.": Current Determinants of Air Accidents (see Tally (1990) first / srape all FAA Reports and Text Mining / could add Dummy newBoeing)
+17) 
 
