@@ -1,4 +1,4 @@
-# research-ideas
+Hi# research-ideas
 ## Research idea collection for papers, seminar papers or possible master thesis topic:
 
 1) Influence of Business Cycles on Education System Workloads and Human Capital Accumulation: Individual or Institutional Leverage? (economics of education / labor market economics)
@@ -17,7 +17,8 @@
 14) Geofencing (in the EU) and it's relation to Offline/Online-Price-Dispersion(if existent).
 15) Spatial within country (proxy) price contagion in c2c online markets. For one product as obs. unit:[woombikes-price-contagion](https://github.com/felix-reichel/woombikes-price-contagion)
 16) "If it's Boeing, it isn't going.": Current Determinants of Air Accidents (see Tally (1990) first / srape all FAA Reports and Text Mining)
-17) Testing The similarity of (quantile) skewness in competitive sports and population's income. (accross and within-country / link to pol. econ.?)
-18) 
-    
+17) Testing The similarity of (quantile) skewness in competitive sports and population's income. (across and within-country / link to pol. econ.?)
+18) on the Predictive power of vo2max in various contexts.
+19) decomposition, degree of pre-determination of vo2max.
+20) 
 
