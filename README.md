@@ -1,4 +1,4 @@
-Hi# research-ideas
+# research-ideas
 ## Research idea collection for papers, seminar papers or possible master thesis topic:
 
 1) Influence of Business Cycles on Education System Workloads and Human Capital Accumulation: Individual or Institutional Leverage? (economics of education / labor market economics)
