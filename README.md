@@ -20,6 +20,6 @@ Hi# research-ideas
 17) Testing The similarity of (quantile) skewness in competitive sports and population's income. (across and within-country / link to pol. econ.?)
 18) on the Predictive power of vo2max in various contexts.
 19) decomposition, degree of pre-determination of vo2max.
-20) Goal bunching in soccer games? e.g. at 30', 45' or 90'
+20) Goal bunching in soccer games? e.g. at 30', 45' or 90' tore pro minute × minute bc. of 'Nachspielzeit' for each half. 
 21) 
 
