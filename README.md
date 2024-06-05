@@ -7,15 +7,9 @@ Lasso Regression Model for Stock Returns Over the FOMC Cycle (Financial Economet
 
 Determinants of Political Office-Holders Completing Their Terms (Political Economy)
 
-The Marathon of Life: Investigating Endurance Sport Participation and Its Impact on Longevity (Sports Economics / Health Economics)
-
 Impact of Health Shocks on Human Capital and Labor Market Outcomes (Labor Economics / Health Economics)
 
 Drivers/Determinants of Tech Mass Layoffs (Using Whistleblower Data from the U.S. Tech Industry, e.g. https://layoffs.fyi/) (Labor Market Economics / Industrial Organization)
-
-Price Contagion Effects in 1
-and m
-Online Marketplaces (e.g. with use of a Willhaben-Scraper, "Spatial Econometrics") (Spatial Econometrics / Industrial Organization)
 
 Determinants and Self Selection Bias of Caffeine Consumption (Find Suitable Survey Data, Medical Literature Review) (Health Economics / Behavioral Economics)
 
@@ -31,7 +25,7 @@ Within Country Firm Size, Structure (MNC's?) and Its Relation to Foreign Direct 
 
 Geofencing (in the EU) and Its Relation to Offline/Online-Price-Dispersion (if Existent) (Industrial Organization / Spatial Economics)
 
-Spatial Within Country (Proxy) Price Contagion in C2C Online Markets. For One Product as Obs. Unit: Woom Bikes Price Contagion (Spatial Econometrics / Industrial Organization)
+(Within-) Country (Proxy) Price Contagion in C2C Online Markets. For One Product as Obs. Unit: Woom Bikes Price Contagion (Spatial Econometrics / Industrial Organization)
 
 "If it's Boeing, it isn't Going.": Current Determinants of Air Accidents (See Tally (1990) First / Scrape All FAA Reports and Text Mining) (Transportation Economics / Safety Economics)
 
