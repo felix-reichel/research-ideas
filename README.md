@@ -37,3 +37,9 @@ Decomposition, Degree of Pre-Determination of VO2 Max (Sports Science / Health E
 
 Goal Bunching in Soccer Games? e.g. at 30', 45' or 90' Goals Per Minute x Minute Because of 'Nachspielzeit' for Each Half (Sports Economics)
 
+PFAS Data from The Forever Pollution Project: Linking PFAS Sites to Austrian Health Register Data (fakten -> Zuordnung diag_key : vers_key (inkl. 60% plz data), data < 2009, only OÖ & Vbg.) (Spatial Health Econometrics) 
+https://assets-decodeurs.lemonde.fr/decodeurs/medias/foreverpollution/Methodology___The_Map_of_Forever_Pollution_2023.02.23.pdf
+https://lucmartinon.gitlab.io/ffp-data/
+
+
+
