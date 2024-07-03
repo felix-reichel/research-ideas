@@ -41,5 +41,7 @@ PFAS Data from The Forever Pollution Project: Linking PFAS Sites to Austrian Hea
 https://assets-decodeurs.lemonde.fr/decodeurs/medias/foreverpollution/Methodology___The_Map_of_Forever_Pollution_2023.02.23.pdf
 https://lucmartinon.gitlab.io/ffp-data/
 
+Predictive Power of/&Models using - the CPI (Corruption Perceptions Index, !Consumer Price Index)for national GDP, Voting, Unemp.,... https://tinyurl.com/cpiecon
+
 
 
