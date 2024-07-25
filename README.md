@@ -43,5 +43,8 @@
 - PFAS Data from The Forever Pollution Project: Linking PFAS Sites to Austrian Health Register Data (fakten -> Zuordnung diag_key : vers_key (inkl. 60% plz data), data < 2009, only OÖ & Vbg.)
   - [Methodology & The Map of Forever Pollution](https://assets-decodeurs.lemonde.fr/decodeurs/medias/foreverpollution/Methodology___The_Map_of_Forever_Pollution_2023.02.23.pdf)
   - [FFP Data](https://lucmartinon.gitlab.io/ffp-data/)
+  - i am interested in long-term health outcomes on grouped zip code level.
+  - could use a spatial Identification strategy using (directions) ground water flows around production sites using adjusted weights for neighboring zip codes matrix.
+  - could use a spatial error term bc. of missing controls on zip code level.
 
 - Models Using the CPI (Corruption Perceptions Index, not Consumer Price Index) [CPI Econ](https://tinyurl.com/cpiecon)
