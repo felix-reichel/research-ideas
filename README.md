@@ -43,8 +43,22 @@
 - PFAS Data from The Forever Pollution Project: Linking PFAS Sites to Austrian Health Register Data (fakten -> Zuordnung diag_key : vers_key (inkl. 60% plz data), data < 2009, only OÖ & Vbg.)
   - [Methodology & The Map of Forever Pollution](https://assets-decodeurs.lemonde.fr/decodeurs/medias/foreverpollution/Methodology___The_Map_of_Forever_Pollution_2023.02.23.pdf)
   - [FFP Data](https://lucmartinon.gitlab.io/ffp-data/)
-  - i am interested in long-term health outcomes on grouped zip code level.
-  - could use a spatial Identification strategy using (directions) ground water flows around production sites using adjusted weights for neighboring zip codes matrix.
-  - could use a spatial error term bc. of missing controls on zip code level.
+
+  **No spatial ID strategy**:
+
+  **Spatial ID Strategy 1**: 1. Identify Water sources/types around the sites manually, 2. Calculate the theoretical hydrogeological flow of groundwater around the sites (direction and 
+  extent), 3.  Construct a spatial weight matrix of neighboring postal codes based on 1. and 2. (Alternativly, skip 1. and 2. initially and use a Contiguity.), 4. include a spatial error 
+ term in the   spatial model for other missing control variables at the postal code level
+
+  **Spatial ID Strategy 2**: 1. Identify the amout of commuters around each prod. sites and it's extend and direction for constructing spatial weight matrices.
+
+  **Other Strategy**:
+
+  **Initial Model Spec.:**
+   - Spatial Durbin Model (SDM), if goal is unbiased betas of non-spatial parameters.,
+   - SAC: Main goal testing a spatial theory (diffusion/channel) whilst controlling for other 
+  spatial deps.,
+   - Spatial Error Durbin Model (SDEM) (if other unobservable spatial-effects).
+
 
 - Models Using the CPI (Corruption Perceptions Index, not Consumer Price Index) [CPI Econ](https://tinyurl.com/cpiecon)
