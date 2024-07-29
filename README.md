@@ -62,3 +62,4 @@
 
 
 - Models Using the CPI (Corruption Perceptions Index, not Consumer Price Index) [CPI Econ](https://tinyurl.com/cpiecon)
+- Spatiotemporal Analysis of Index funds: An approach for quantifying cluster risk
